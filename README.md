@@ -1,5 +1,5 @@
 <div align="center">
-            ### Hi there, I'm Eduarda Pires 👋
+            <h1>Hi there, I'm Eduarda Pires 👋</h1>
  </div>
  
 <div align="center">
