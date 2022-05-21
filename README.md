@@ -1,8 +1,9 @@
 <div align="center">
             <h1>Hi there, I'm Eduarda Pires 👋</h1>
-             <h2>Front-End Web Developer</h2>
+            <h4>• Desenvolvedora Front-End</h4>
+            <h4>• Estudante de Análise e Desenvolvimento de Sistemas </h4>
  </div>
- <div display="flex" align="center">
+ <div>
   <a href="https://github.com/mdudapires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdudapires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdudapires&layout=compact&langs_count=7&theme=dracula"/>
