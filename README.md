@@ -1,6 +1,5 @@
 <div align="center">
             <h1>Hi there, I'm Eduarda Pires 👋</h1>
-            <h3>• Desenvolvedora Front-End</h3>
  </div>
  <div>
   <a href="https://github.com/mdudapires">
